@@ -1,5 +1,6 @@
+
 .flowers {
-    background-color:red
+    background-color:blue;
 }
 
 .subject-heading {
@@ -7,6 +8,7 @@
     font-family: fantasy;
     font-weight: 900;
     font-stretch: extra-expanded;
+    color: brown;
 }
 
 
