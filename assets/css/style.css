@@ -1,6 +1,8 @@
 
+
+
 .flowers {
-    background-color:blue;
+    background-color:grey;
 }
 
 .subject-heading {
@@ -8,13 +10,13 @@
     font-family: fantasy;
     font-weight: 900;
     font-stretch: extra-expanded;
-    color: brown;
+    color: rgb(33, 208, 30);
 }
 
 .locations {
 
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: greenyellow
+    font-family: fantasy;
+    color: lightgray
 }
 
 
