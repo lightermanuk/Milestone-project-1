@@ -2,6 +2,9 @@
 
 
 .flowers {
+    font-size: x-large;
+    font-family: fantasy;
+    font-weight: 400;
     background-color:grey;
 }
 
@@ -21,10 +24,10 @@
 
 
 .logo {
-    background: url("../images/flowerpath.jpg");
+    background: url("../images/rowing-boats-chesilbeach.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     min-height: 360px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
