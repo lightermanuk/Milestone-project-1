@@ -24,12 +24,12 @@
 }
 
 
-.logo {
+.rowingboats {
     background: url("../images/rowing-boats-chesilbeach.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
-    min-height: 360px;
+    background-size: cover;
+    max-height: 360px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -50,7 +50,7 @@
     background: url("../images/portlandbill.jpeg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     min-height: 360px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
@@ -70,4 +70,3 @@
     color: olivedrab;
 }
 
-.carousel-caption d-none d-md-block
