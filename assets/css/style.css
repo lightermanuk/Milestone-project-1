@@ -1,5 +1,15 @@
 
-
+body {
+    background-image: url("../assets/images/fortuneswell.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+nav {
+    margin-bottom: 20px;
+}
 
 .blurb {
     font-size: x-large;
@@ -67,11 +77,6 @@
     width: 45%;
   }
 
-.container {
-    background-color: white;
-    color: olivedrab;
-}
-
 body {
     padding-left: 30px;
     padding-right: 30px;
@@ -97,4 +102,22 @@ body {
 
 .weather img {
     margin-left: 10px;
+}
+
+.carousel .carousel-caption h5 {
+    font-size: 1.5em; /* Adjust as needed */
+}
+
+.carousel .carousel-caption p {
+    font-size: 1.2em; /* Adjust as needed */
+}
+
+/* Ensure all carousel images have the same size */
+.carousel-inner img {
+    width: auto; /* Allow the width to be automatic */
+    max-width: 100%; /* Ensure it does not exceed the container width */
+    height: auto; /* Maintain aspect ratio */
+    max-height: 400px; /* Adjust this value to set a maximum height */
+    margin: 0 auto; /* Center the image horizontally */
+    display: block; /* Make the image a block element to center it */
 }
