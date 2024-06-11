@@ -81,3 +81,15 @@ body {
     width: 100%; 
     height: 20px; 
 }
+
+.weather {
+    font-size: x-large; /* Smaller font size */
+    color: white; /* White font color */
+    text-shadow: 1px 1px 2px black; /* Black text shadow */
+    margin-left: 15px; /* Space between weather and heading */
+}
+.subject-heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
