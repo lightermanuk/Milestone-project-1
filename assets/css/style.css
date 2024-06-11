@@ -1,14 +1,9 @@
 
-body {
-    background-image: url("../assets/images/fortuneswell.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    padding-left: 30px;
-    padding-right: 30px;
-}
+
 nav {
     margin-bottom: 20px;
+    background-color:  #FFFDD0 ;
+    font-size: large;
 }
 
 .blurb {
@@ -34,6 +29,7 @@ nav {
     font-family: fantasy;
     color: rgb(238, 246, 8);
     font-size: x-large;
+    ext-shadow: 2px 2px orange;
 }
 
 
