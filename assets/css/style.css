@@ -1,14 +1,22 @@
 
 body {
-    background-image: url("../assets/images/fortuneswell.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    padding-left: 30px;
-    padding-right: 30px;
+        background-image: url('assets/images/fortuneswell.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        padding-left: 30px;
+        padding-right: 30px;
 }
+
 nav {
     margin-bottom: 20px;
+}
+
+.container {
+    background-color:#FFFDD0; 
+    color: olivedrab; 
+    font-weight: 600;
+    font-size: large;
 }
 
 .blurb {
@@ -121,3 +129,4 @@ body {
     margin: 0 auto; /* Center the image horizontally */
     display: block; /* Make the image a block element to center it */
 }
+
