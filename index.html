@@ -35,7 +35,10 @@
     </div>
 </nav>
 
-<h1 class="subject-heading"><span id="weather" class="weather"></span>Portland</h1>
+<h1 class="subject-heading">
+  <span>Portland</span>
+  <span id="weather" class="weather"></span>
+</h1>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 
@@ -52,7 +55,7 @@
 
 <div class="gap"></div>
 
-<p class="reasons text-center"> It is a unique and very interesting place for many reasons &#128512 </p>
+<p class="reasons text-center"> It is a unique and interesting place for many different reasons &#128512; </p>
 
 <footer>
     <br>
@@ -110,7 +113,9 @@
             const data = await response.json();
             const temperature = data.main.temp;
             const weather = data.weather[0].description;
-            document.getElementById('weather').textContent = `${temperature}°C, ${weather}`;
+            const icon = data.weather[0].icon;
+            const iconUrl = `http://openweathermap.org/img/wn/${icon}.png`;
+            document.getElementById('weather').innerHTML = `${temperature}°C, ${weather} <img src="${iconUrl}" alt="Weather Icon">`;
         } catch (error) {
             console.error('There has been a problem with your fetch operation:', error);
         }

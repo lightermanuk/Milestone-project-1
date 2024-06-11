@@ -88,8 +88,13 @@ body {
     text-shadow: 1px 1px 2px black; /* Black text shadow */
     margin-left: 15px; /* Space between weather and heading */
 }
+
 .subject-heading {
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+.weather img {
+    margin-left: 10px;
 }
