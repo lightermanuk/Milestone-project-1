@@ -1,6 +1,6 @@
 https://github.com/lightermanuk/Milestone-project-1.git
 
-I thought I would do a website on somewhere near my hometown.  This is becuase I originally decided to do it on flowers, but know very little about flowers.  Whereas portland I know about and can easily produce subjects for pages.  Furthermore, it is a very beautiful and photographic location so my webpage would be visually attractive, naturally.
+I thought I would do a website on somewhere near my hometown.  This is becuase I originally decided to do it on flowers, but know very little about flowers.  Whereas portland I know about and can easily produce subjects for pages.  Furthermore, it is a very beautiful and photographic location so my webpage is naturally visually appealing.
 
 photos used as follows:
 https://images.historicenglandservices.org.uk/p/106/isle-portland-27844-012-11635868.jpg.webp = isle-portland.jpg
