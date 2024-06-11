@@ -4,6 +4,8 @@ nav {
     margin-bottom: 20px;
     background-color:  #FFFDD0 ;
     font-size: large;
+    font-weight: 500;
+    padding: 10px 0;
 }
 
 .blurb {
@@ -116,4 +118,26 @@ body {
     max-height: 400px; /* Adjust this value to set a maximum height */
     margin: 0 auto; /* Center the image horizontally */
     display: block; /* Make the image a block element to center it */
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex: 1;
+}
+
+footer {
+    background-color:  #FFFDD0 ;
+    font-size: large;
+    font-weight: 400;
+    font-style: italic;
+    padding: 10px 0;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
 }
