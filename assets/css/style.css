@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 body {
         background-image: url('assets/images/fortuneswell.jpg');
         background-repeat: no-repeat;
@@ -7,9 +8,15 @@ body {
         padding-left: 30px;
         padding-right: 30px;
 }
+=======
+>>>>>>> refs/remotes/origin/main
 
 nav {
     margin-bottom: 20px;
+    background-color:  #FFFDD0 ;
+    font-size: large;
+    font-weight: 500;
+    padding: 10px 0;
 }
 
 .container {
@@ -42,6 +49,7 @@ nav {
     font-family: fantasy;
     color: rgb(238, 246, 8);
     font-size: x-large;
+    ext-shadow: 2px 2px orange;
 }
 
 
@@ -130,3 +138,27 @@ body {
     display: block; /* Make the image a block element to center it */
 }
 
+<<<<<<< HEAD
+=======
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex: 1;
+}
+
+footer {
+    background-color:  #FFFDD0 ;
+    font-size: large;
+    font-weight: 400;
+    font-style: italic;
+    padding: 10px 0;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+>>>>>>> refs/remotes/origin/main
