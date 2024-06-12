@@ -1,16 +1,4 @@
 
-<<<<<<< HEAD
-body {
-        background-image: url('assets/images/fortuneswell.jpg');
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: cover;
-        padding-left: 30px;
-        padding-right: 30px;
-}
-=======
->>>>>>> refs/remotes/origin/main
-
 nav {
     margin-bottom: 20px;
     background-color:  #FFFDD0 ;
@@ -138,8 +126,6 @@ body {
     display: block; /* Make the image a block element to center it */
 }
 
-<<<<<<< HEAD
-=======
 body {
     display: flex;
     flex-direction: column;
@@ -159,6 +145,5 @@ footer {
     text-align: center;
     position: relative;
     bottom: 0;
-    width: 100%;
-}
->>>>>>> refs/remotes/origin/main
+    width: 100%; }
+
