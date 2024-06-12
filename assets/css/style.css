@@ -149,3 +149,19 @@ footer {
     margin-top: 20px
  }
 
+ .carousel-control-prev,
+ .carousel-control-next {
+     width: 20%; /* Adjust the width as needed */
+ }
+ 
+ .carousel-control-prev-icon,
+ .carousel-control-next-icon {
+     background-color: black; /* Change color to make it more visible */
+     border-radius: 50%; /* Optional: makes the background color circular */
+     padding: 20px; /* Optional: increases the size of the arrows */
+ }
+ 
+ .carousel-control-prev-icon:hover,
+ .carousel-control-next-icon:hover {
+     background-color: rgba(0, 0, 0, 0.7); /* Slightly transparent on hover */
+ }
