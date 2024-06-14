@@ -165,3 +165,38 @@ footer {
  .carousel-control-next-icon:hover {
      background-color: rgba(0, 0, 0, 0.7); /* Slightly transparent on hover */
  }
+
+ .full-width-image {
+    width: 100%;
+    height: auto;
+}
+.carousel-control-prev, .carousel-control-next {
+    top: 50%;
+    transform: translateY(-50%);
+}
+.carousel-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.carousel-inner {
+    height: 500px;
+}
+.carousel-item img, .carousel-item iframe {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.carousel-item .ratio {
+    height: 100%;
+}
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 1rem;
+}
+
+.half-width-image {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
