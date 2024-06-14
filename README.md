@@ -3,6 +3,8 @@ https://lightermanuk.github.io/Milestone-project-1
 I thought I would do a website on somewhere near my hometown.  This is becuase I originally decided to do it on flowers, but know very little about flowers.  Whereas portland I know about and can easily produce subjects for pages.  Furthermore, it is a very beautiful and photographic location so my webpage is naturally visually appealing.
 
 photos used as follows:
+https://www.itv.com/news/westcountry/2012-11-27/ainslie-retires-from-olympic-sailing = Ainslie_won_Finn_class_London_2012.jpeg
+https://olympics.com/en/news/ability-under-pressure-his-inner-hulk-and-bradley-wiggins-key-to-ainslie-s-famou = Benportland.jpg
 https://en.wikipedia.org/wiki/Portland_stone#/media/File:Portland_incline.jpg = portland_stonerailway.jpg
 https://images.historicenglandservices.org.uk/p/106/isle-portland-27844-012-11635868.jpg.webp = isle-portland.jpg
 https://cdn.pixabay.com/photo/2017/02/24/09/40/rowing-boats-2094320_1280.jpg =rowing-boats-chesilbeach.jpg
