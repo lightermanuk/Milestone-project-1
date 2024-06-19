@@ -1,5 +1,7 @@
 # Milestone 1 Project: The Island of Portland
 
+##I thought I would do a website on somewhere near my hometown. This is becuase I originally decided to do it on flowers, but know very little about flowers. Whereas portland I know about and can easily produce subjects for pages. Furthermore, it is a very beautiful and photographic location so my webpage is naturally visually appealing.
+
 ## Project Description
 This project aims to provide comprehensive information about the Isle of Portland, including its history, popular walks, and tourist attractions. The website showcases various media such as images, videos, and descriptive content to enhance the understanding and appreciation of Portland.
 
