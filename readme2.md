@@ -17,23 +17,30 @@ To access the website, navigate through the different pages:
 
 ## Sitemap
 
-Home
-│
-├── History
-│ ├── Limestone 
-│ ├── 2012 London Olympics
-│ └── World Wars
-│
-├── Walks
-│ ├── South West Coast Path
-│ ├── Portland Circular Walk
-│ └── Verne High Angle Battery Walk
-│
-└── Tourist Attractions
-├── Portland Bill
-├── Chesil Beach
-├── Portland Castle
-└── Church Ope Cove
+- Home
+  |  
+  |--- History
+  |   |  
+  |   |--- Prehistoric Times
+  |   |--- Roman Era
+  |   |--- Medieval Period
+  |   |--- 19th Century
+  |   |--- World Wars
+  |  
+  |--- Walks
+  |   |  
+  |   |--- South West Coast Path
+  |   |--- Portland Circular Walk
+  |   |--- Verne High Angle Battery Walk
+  |  
+  |--- Tourist Attractions
+      |  
+      |--- Portland Bill
+      |--- Chesil Beach
+      |--- Portland Castle
+      |--- Tout Quarry Sculpture Park
+      |--- Church Ope Cove
+
 
 
 ## History Page
