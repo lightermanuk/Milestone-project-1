@@ -33,7 +33,7 @@ header {
     font-weight: 600;
 }
 
-.section-heading {
+.subject-heading {
     font-size: xxx-large;
     font-family: fantasy;
     font-weight: 900;
@@ -74,7 +74,6 @@ header {
     margin-left: 15px;
 }
 
-/* Carousel specific styles */
 
 .carousel-control-prev,
 .carousel-control-next {
@@ -106,14 +105,15 @@ header {
 
 .carousel-inner img,
 .carousel-inner iframe {
-    height: 100%;
     width: 100%;
-    object-fit: cover;
+    height: 500px; /* Ensures the images are equally sized */
+    object-fit: cover; /* Ensures the image covers the entire area */
 }
 
 .carousel-caption {
     background: rgba(0, 0, 0, 0.5);
     padding: 1rem;
+    bottom: 20px; /* Ensures caption is positioned at the bottom of the image */
 }
 
 .half-width-image {
@@ -134,7 +134,20 @@ header {
 }
 
 .carousel-inner {
-    height: 500px; /* Adjust the height of the carousel items */
+    height: 500px; /* Set a fixed height for all carousel items */
 }
+
+footer {
+    background-color:  #FFFDD0 ;
+    font-size: large;
+    font-weight: 400;
+    font-style: italic;
+    padding: 10px 0;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: 20px
+ }
 
 /* Media queries for responsiveness can be added as needed */
