@@ -21,12 +21,11 @@ To access the website, navigate through the different pages:
   |  
   |--- History
   |   |  
-  |   |--- Prehistoric Times
-  |   |--- Roman Era
-  |   |--- Medieval Period
-  |   |--- 19th Century
-  |   |--- World Wars
-  |  
+  |   |--- Brief
+  |   |--- Portland Limestone 
+  |   |--- 2012 London Olympics
+  |   
+  |     
   |--- Walks
   |   |  
   |   |--- South West Coast Path
