@@ -87,12 +87,12 @@ The Tourist Attractions Page features the island’s must-visit spots, complete 
 ## Video Used
 -[Limestone youtube video](https://www.youtube.com/watch?v=tNsV61csn-A).
 
-##Contributing
+## Contributing
 This is a solo project for college purposes and is not open for contributions.
 
-##License
+## License
 This project does not include licensing information as it is a college assignment without personal details.
 
-##Contact
+## Contact
 For any inquiries, please contact the project creator directly.
 
