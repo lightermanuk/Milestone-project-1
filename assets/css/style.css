@@ -74,13 +74,40 @@ header {
     margin-left: 15px;
 }
 
+.row.no-gutters a img {
+    width: 100%;
+    height: auto;
+}
+
+
+.row.no-gutters {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0; /* Ensure no margin around the row */
+    padding: 0; /* Ensure no padding around the row */
+}
+
+.row.no-gutters a {
+    flex: 1; /* Ensure all items take equal space */
+    margin: 0; /* Ensure no margin around the links */
+    padding: 0; /* Ensure no padding around the links */
+    display: flex;
+}
+
+.row.no-gutters a img {
+    width: 100%; /* Make the image take the full width of the parent */
+    height: 100%; /* Make the image take the full height of the parent */
+    object-fit: cover; /* Ensure the image covers the area without distortion */
+    margin: 0; /* Ensure no margin around the images */
+    padding: 0; /* Ensure no padding around the images */
+}
 
 .carousel-control-prev,
 .carousel-control-next {
     top: 50%;
     transform: translateY(-50%);
     width: 5%; /* Adjust the width as needed */
-    z-index: 1; /* Ensure arrows are above carousel content */
+    z-index: 4; /* Ensure arrows are above carousel content */
 }
 
 .carousel-control-prev {
