@@ -124,37 +124,6 @@ header {
 }
 
 
-.carousel-control-prev,
-.carousel-control-next {
-    position: relative;
-    top: 50%;
-    transform: translateY(-50%);
-    width: 5%; /* Adjust the width as needed */
-   
-}
-
-.carousel-control-prev {
-    position: relative;
-    left: 5%;
-    top: 50%;
-    transform: translateY(-50%);
-}
-
-.carousel-control-next {
-    position: relative;
-    right: 5%;
-    top: 50%;
-    transform: translateY(-50%);
-}
-
-.carousel-control-prev-icon,
-.carousel-control-next-icon {
-    position: relative;
-    background-color: black; /* Change color to make it more visible */
-    border-radius: 50%; /* Optional: makes the background color circular */
-    padding: 20px; /* Optional: increases the size of the arrows */
-    transform: translateY(-50%);
-}
 
 .carousel-control-prev-icon:hover,
 .carousel-control-next-icon:hover {
