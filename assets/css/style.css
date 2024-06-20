@@ -151,10 +151,16 @@ header {
 }
 
 .half-width-image {
-    width: 50%;
+    width: 100%; /* Full width by default (for mobile devices) */
     height: auto;
     display: block;
     margin: 0 auto;
+}
+
+@media (min-width: 768px) { /* Adjust the min-width as needed for your breakpoint */
+    .half-width-image {
+        width: 50%; /* Half width for screens 768px and larger */
+    }
 }
 
 .full-width-image {
