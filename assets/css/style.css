@@ -65,6 +65,7 @@ header {
 
 .history-caption {
     color: black;
+    font-size:larger;
 }
 
 .weather {
@@ -102,31 +103,62 @@ header {
     padding: 0; /* Ensure no padding around the images */
 }
 
+.custom-arrow {
+    position: relative; /* Enable positioning */
+    top: 50%; /* Move vertically to the image midpoint */
+    transform: translateY(-50%); /* Adjust vertical placement if needed */
+  }
+  
+
+.carousel-control-prev, .carousel-control-next {
+    
+    transform: translateY(-50%);
+}
+.carousel-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 1rem;
+}
+
+
 .carousel-control-prev,
 .carousel-control-next {
+    position: relative;
     top: 50%;
     transform: translateY(-50%);
     width: 5%; /* Adjust the width as needed */
-    z-index: 4; /* Ensure arrows are above carousel content */
+   
 }
 
 .carousel-control-prev {
+    position: relative;
     left: 5%;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
 .carousel-control-next {
+    position: relative;
     right: 5%;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
+    position: relative;
     background-color: black; /* Change color to make it more visible */
     border-radius: 50%; /* Optional: makes the background color circular */
     padding: 20px; /* Optional: increases the size of the arrows */
+    transform: translateY(-50%);
 }
 
 .carousel-control-prev-icon:hover,
 .carousel-control-next-icon:hover {
+    position: relative;
     background-color: rgba(0, 0, 0, 0.7); /* Slightly transparent on hover */
 }
 
