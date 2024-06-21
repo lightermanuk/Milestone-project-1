@@ -33,6 +33,27 @@ header {
     font-weight: 600;
 }
 
+.image-caption {
+    background-color: white;
+    color: black;
+    padding: 10px;
+}
+img.img-fluid {
+    width: 100%;
+    height: auto;
+}
+.row.no-gutters {
+    margin-left: 0;
+    margin-right: 0;
+}
+.col-md-6 {
+    display: flex;
+    flex-direction: column;
+}
+.col-md-6 > .align-bottom {
+    margin-top: auto;
+}
+
 .subject-heading {
     font-size: xxx-large;
     font-family: fantasy;
@@ -181,3 +202,4 @@ footer {
     width: 100%;
     margin-top: 20px;
 }
+
