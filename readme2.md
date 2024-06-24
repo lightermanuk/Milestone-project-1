@@ -28,7 +28,7 @@ To access the website, navigate through the different pages:
   |     
   |--- Walks
   |   |  
-  |   |--- South West Coast Path
+  |   |--- Southwell to Portland Bill
   |   |--- Portland Circular Walk
   |   |--- Verne High Angle Battery Walk
   |  
@@ -46,17 +46,17 @@ To access the website, navigate through the different pages:
 The History Page delves into the fascinating past of the Island of Portland, highlighting its significance over the centuries. Key historical points include:
 
 - Prehistoric Times: Evidence of early human activity through archaeological finds.
-- Roman Era: The island's strategic importance during Roman times.
 - Medieval Period: Development of Portland Castle by Henry VIII.
 - 19th Century: Expansion due to quarrying activities and the arrival of the railway.
 - World Wars: The island's role during both World War I and World War II, including its use as a defensive stronghold and a base for the Royal Navy.
+- London Oylmpic Sailing 2012.
 
 ## Walks Page
 The Walks Page offers detailed descriptions of various scenic walks around the island, catering to all levels of hikers. Highlights include:
 
-- South West Coast Path: A section of the famous long-distance path running along the island’s coast.
-- Portland Circular Walk: A moderate walk providing stunning views of the coastline and historical sites.
+- Southwell to Portland Bill: A lovely easy going walk.
 - Verne High Angle Battery Walk: A walk to the Victorian fortifications with panoramic views.
+- Portland Circular Walk: A walk providing stunning views of the coastline and historical sites.
 
 ## Tourist Attractions Page
 The Tourist Attractions Page features the island’s must-visit spots, complete with pictures, videos, and detailed descriptions. Major attractions include:
@@ -92,10 +92,14 @@ The Tourist Attractions Page features the island’s must-visit spots, complete 
 - [Portlandcastle](https://www.uksouthwest.net/dorset/portland-castle/portland-castle-gun-block-cannon-boats.html)
 - [Portlandharbour1946bnw](https://www.reddit.com/r/WarshipPorn/comments/hwzc92/battleship_hms_duke_of_york_departing_portland/?onetap_auto=true&one_tap=true)
 - [Portland_stone_Natural](https://www.johnson-tiles.com/catalog/products/portland/stone/natural/floor/tile#)
-- -[standrewschurchruins.jpg](https://historicengland.org.uk/listing/the-list/list-entry/1205384)
+- [standrewschurchruins.jpg](https://historicengland.org.uk/listing/the-list/list-entry/1205384)
+- [portlandbillsouthwellwalk.jpg](https://www.google.com/maps/dir/The+Eight+Kings,+40+Southwell+Rd,+Portland+DT5+2DP,+United+Kingdom/Portland+Bill+Lighthouse,+Bill,+Portland+DT5+2JT,+United+Kingdom/The+Eight+Kings,+40+Southwell+Rd,+Portland+DT5+2DP,+United+Kingdom/@50.523668,-2.4425505,15.5z/data=!4m40!4m39!1m5!1m1!1s0x4872f05f87faba3b:0xb26026c0a8cc6e23!2m2!1d-2.4411815!2d50.5293224!1m25!1m1!1s0x4872f04e3875074d:0x2bbac40d27399934!2m2!1d-2.4563995!2d50.5141841!3m4!1m2!1d-2.4535609!2d50.5155558!3s0x4872f04eef59f407:0xaf23e9b909accfcf!3m4!1m2!1d-2.4521406!2d50.5166981!3s0x4872f05b7a52c561:0x36414cf026493a50!3m4!1m2!1d-2.4484788!2d50.518595!3s0x4872f05b7a52c561:0x36414cf026493a51!3m4!1m2!1d-2.4527143!2d50.5163381!3s0x4872f04f087bd253:0xeb91669fc59092d6!1m5!1m1!1s0x4872f05f87faba3b:0xb26026c0a8cc6e23!2m2!1d-2.4411815!2d50.5293224!3e2?entry=ttu)
   
 ## Video Used
 -[Limestone youtube video](https://www.youtube.com/watch?v=tNsV61csn-A).
+-[Southwell to Portland Bill Walkyoutube video](https://www.youtube.com/watch?v=3CZQK9eDybA)
+-[Portland Circular Walk Youtube Video](https://www.youtube.com/watch?v=1yS7UnEG-6Q)
+-[Verne High Angle Battery Walk](https://www.youtube.com/watch?v=8frHbxZ-Z6Q)
 
 ## Contributing
 This is a solo project for college purposes and is not open for contributions.
