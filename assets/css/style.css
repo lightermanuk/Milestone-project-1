@@ -33,6 +33,16 @@ header {
     font-weight: 600;
 }
 
+.image-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.align-bottom {
+    align-self: flex-end;
+}
+
+
 .image-caption {
     background-color: white;
     color: black;
@@ -74,9 +84,11 @@ img.img-fluid {
     padding: 20px; /* Optional: Adds some padding for better readability */
 }
 
+
+
 .reasons {
     font-family: fantasy;
-    font-size: x-large;
+    font-size: xx-large;
     color: rgb(238, 246, 8);
     text-shadow: 2px 2px orange;
     text-align: center;

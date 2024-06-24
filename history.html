@@ -80,8 +80,8 @@
     height: auto;
 }
 
-     .blurb {
-    font-size: xx-large;
+.blurb {
+    font-size: x-large;
     font-family: fantasy;
     font-weight: 400;
     background-image: url('assets/images/portland_stone_natural.jpg');
@@ -91,6 +91,17 @@
     color: black; /* Optional: Changes text color for better contrast */
     padding: 20px; /* Optional: Adds some padding for better readability */
 }
+  
+.image-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.align-bottom {
+    align-self: flex-end;
+}
+
+
 
     </style>
 </head>
@@ -132,20 +143,40 @@
             <div class="container-fluid">
                 <div class="row no-gutters">
                     <div class="col-md-6">
-                        <p class="blurb">Portland has a rich history that dates back to the Mesolithic period, evidenced by the archaeological finds indicating early human activity. Its strategic position made it significant during various periods, particularly in the Middle Ages when it was granted to the Knights Templar. Portland Castle, built by Henry VIII in the 16th century, stands as a testament to its military importance. During the 19th and 20th centuries, Portland saw significant military and naval activity, with the establishment of Portland Harbour, one of the largest man-made harbors in the world, and its use as a naval base. In modern times, Portland is known for its natural beauty, historical sites, and as a venue for sailing events during the 2012 London Olympics.</p>
+                        <p class="blurb">Portland has a rich history that dates back to the Mesolithic period, evidenced by the archaeological finds indicating early human activity.</p>
+                        
                         <div class="image-caption">
                             <img src="assets/images/standrewschurchruins.jpg" alt="st-andrews-church-ruins" class="img-fluid">
                             <p>The ruins of St Andrews Church. It was originally built around 1100 by the Benedictine Monks of St. Swithun in Winchester, who were bestowed the Isle of Portland in 1042 by Edward the Confessor.</p>
                         </div>
+                        <br>        
+                        <p class="blurb">Its strategic position made it significant during various periods, particularly in the Middle Ages when it was granted to the Knights Templar. Portland Castle, built by Henry VIII in the 16th century, stands as a testament to its military importance.</p>
+                        
+                        <div class="image-wrapper">
+                            <img src="assets/images/portland-castle.jpg" alt="portland-castle" class="img-fluid mb-2">
+                        </div>
                     </div>
                     <div class="col-md-6">
-                        <img src="assets/images/portland-castle.jpg" alt="portland-castle" class="img-fluid mb-2">
-                        <img src="assets/images/portlandharbour1946bnw.jpg" alt="portland-harbourbnw" class="img-fluid mb-2">
-                        <img src="assets/images/portland-5 rings-more-zoom.jpg" class="img-fluid align-bottom" alt="Portlandolympicrings">
+                        <div class="image-wrapper">
+                            <img src="assets/images/portlandharbour1946bnw.jpg" alt="portland-harbourbnw" class="img-fluid mb-2">
+                        </div>
+                        <p class="blurb">During the 19th and 20th centuries, Portland saw significant military and naval activity, with the establishment of Portland Harbour, one of the largest man-made harbors in the world, and its use as a naval base. </p>
+                        
+                        <div class="image-wrapper">
+                            <img src="assets/images/pulpit.jpg" alt="Pulpit1" class="img-fluid mb-2">
+                        </div>
+                        <p class="blurb"> In modern times, Portland is known for its natural beauty and as a venue for sailing events during the 2012 London Olympics. </p>
+                        
+                        <div class="image-wrapper align-bottom">
+                            <img src="assets/images/portland-5 rings-more-zoom.jpg" class="img-fluid" alt="Portlandolympicrings">
+                        </div>
                     </div>
                 </div>
             </div>
         </section>
+        
+        
+        
         <section class="history-images">
             <div class="row">
                 <div class="col-md-12">
