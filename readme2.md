@@ -28,7 +28,7 @@ To access the website, navigate through the different pages:
   |     
   |--- Walks
   |   |  
-  |   |--- South West Coast Path
+  |   |--- Southwell to Portland Bill
   |   |--- Portland Circular Walk
   |   |--- Verne High Angle Battery Walk
   |  
@@ -46,17 +46,17 @@ To access the website, navigate through the different pages:
 The History Page delves into the fascinating past of the Island of Portland, highlighting its significance over the centuries. Key historical points include:
 
 - Prehistoric Times: Evidence of early human activity through archaeological finds.
-- Roman Era: The island's strategic importance during Roman times.
 - Medieval Period: Development of Portland Castle by Henry VIII.
 - 19th Century: Expansion due to quarrying activities and the arrival of the railway.
 - World Wars: The island's role during both World War I and World War II, including its use as a defensive stronghold and a base for the Royal Navy.
+- London Oylmpic Sailing 2012.
 
 ## Walks Page
 The Walks Page offers detailed descriptions of various scenic walks around the island, catering to all levels of hikers. Highlights include:
 
-- South West Coast Path: A section of the famous long-distance path running along the island’s coast.
-- Portland Circular Walk: A moderate walk providing stunning views of the coastline and historical sites.
+- Southwell to Portland Bill: A lovely easy going walk.
 - Verne High Angle Battery Walk: A walk to the Victorian fortifications with panoramic views.
+- Portland Circular Walk: A walk providing stunning views of the coastline and historical sites.
 
 ## Tourist Attractions Page
 The Tourist Attractions Page features the island’s must-visit spots, complete with pictures, videos, and detailed descriptions. Major attractions include:
