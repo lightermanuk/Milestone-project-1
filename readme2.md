@@ -92,10 +92,12 @@ The Tourist Attractions Page features the island’s must-visit spots, complete 
 - [Portlandcastle](https://www.uksouthwest.net/dorset/portland-castle/portland-castle-gun-block-cannon-boats.html)
 - [Portlandharbour1946bnw](https://www.reddit.com/r/WarshipPorn/comments/hwzc92/battleship_hms_duke_of_york_departing_portland/?onetap_auto=true&one_tap=true)
 - [Portland_stone_Natural](https://www.johnson-tiles.com/catalog/products/portland/stone/natural/floor/tile#)
-- -[standrewschurchruins.jpg](https://historicengland.org.uk/listing/the-list/list-entry/1205384)
+- [standrewschurchruins.jpg](https://historicengland.org.uk/listing/the-list/list-entry/1205384)
+- [portlandbillsouthwellwalk.jpg](https://www.google.com/maps/dir/The+Eight+Kings,+40+Southwell+Rd,+Portland+DT5+2DP,+United+Kingdom/Portland+Bill+Lighthouse,+Bill,+Portland+DT5+2JT,+United+Kingdom/The+Eight+Kings,+40+Southwell+Rd,+Portland+DT5+2DP,+United+Kingdom/@50.523668,-2.4425505,15.5z/data=!4m40!4m39!1m5!1m1!1s0x4872f05f87faba3b:0xb26026c0a8cc6e23!2m2!1d-2.4411815!2d50.5293224!1m25!1m1!1s0x4872f04e3875074d:0x2bbac40d27399934!2m2!1d-2.4563995!2d50.5141841!3m4!1m2!1d-2.4535609!2d50.5155558!3s0x4872f04eef59f407:0xaf23e9b909accfcf!3m4!1m2!1d-2.4521406!2d50.5166981!3s0x4872f05b7a52c561:0x36414cf026493a50!3m4!1m2!1d-2.4484788!2d50.518595!3s0x4872f05b7a52c561:0x36414cf026493a51!3m4!1m2!1d-2.4527143!2d50.5163381!3s0x4872f04f087bd253:0xeb91669fc59092d6!1m5!1m1!1s0x4872f05f87faba3b:0xb26026c0a8cc6e23!2m2!1d-2.4411815!2d50.5293224!3e2?entry=ttu)
   
 ## Video Used
 -[Limestone youtube video](https://www.youtube.com/watch?v=tNsV61csn-A).
+-[Southwell youtube video to Portland Bill Walk](https://www.youtube.com/watch?v=3CZQK9eDybA)
 
 ## Contributing
 This is a solo project for college purposes and is not open for contributions.
