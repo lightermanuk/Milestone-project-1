@@ -99,7 +99,7 @@ The Tourist Attractions Page features the island’s must-visit spots, complete 
 -[Limestone youtube video](https://www.youtube.com/watch?v=tNsV61csn-A).
 -[Southwell to Portland Bill Walkyoutube video](https://www.youtube.com/watch?v=3CZQK9eDybA)
 -[Portland Circular Walk Youtube Video](https://www.youtube.com/watch?v=1yS7UnEG-6Q)
--[Verne High Angle Battery Walk] (https://www.youtube.com/watch?v=8frHbxZ-Z6Q)
+-[Verne High Angle Battery Walk](https://www.youtube.com/watch?v=8frHbxZ-Z6Q)
 
 ## Contributing
 This is a solo project for college purposes and is not open for contributions.
