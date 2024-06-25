@@ -39,6 +39,10 @@ To access the website, navigate through the different pages:
       |--- Portland Castle
       |--- Tout Quarry Sculpture Park
       |--- Church Ope Cove
+      |--- Chesil Cove
+      |--- Portland Museum
+      |--- Fortuneswell
+      |--- Portland Bird Observatory
 
 
 
@@ -78,7 +82,6 @@ The Tourist Attractions Page features the island’s must-visit spots, complete 
 - [Portland Five Rings More Zoom](https://cdn.pixabay.com/photo/2015/07/13/18/04/portland-843606_960_720.jpg)
 - [Portland Five Rings Sunset](https://cdn.pixabay.com/photo/2016/11/02/00/34/portland-1790136_1280.jpg)
 - [Fortuneswell Zoomed](https://images.unsplash.com/photo-1590089058245-93a66a05e9a4?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=belinda-fewings-O_HcdItcSZk-unsplash.jpg)
-- [The Bill](https://images.unsplash.com/photo-1699791912082-53c622dd919a?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=tomasz-zielonka-5BsqH-qZb-U-unsplash.jpg)
 - [St. Paul's Cathedral](https://images.pexels.com/photos/15938708/pexels-photo-15938708/free-photo-of-st-pauls-cathedral-in-london-england-united-kingdom.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 - [Manchester Central Library](https://images.pexels.com/photos/19101771/pexels-photo-19101771/free-photo-of-neoclassical-colonnade-manchester-central-library.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 - [Christchurch Priory](https://images.pexels.com/photos/15174020/pexels-photo-15174020/free-photo-of-view-of-the-christchurch-priory-and-cemetery-christchurch-england-uk.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
@@ -94,6 +97,13 @@ The Tourist Attractions Page features the island’s must-visit spots, complete 
 - [Portland_stone_Natural](https://www.johnson-tiles.com/catalog/products/portland/stone/natural/floor/tile#)
 - [standrewschurchruins.jpg](https://historicengland.org.uk/listing/the-list/list-entry/1205384)
 - [portlandbillsouthwellwalk.jpg](https://www.google.com/maps/dir/The+Eight+Kings,+40+Southwell+Rd,+Portland+DT5+2DP,+United+Kingdom/Portland+Bill+Lighthouse,+Bill,+Portland+DT5+2JT,+United+Kingdom/The+Eight+Kings,+40+Southwell+Rd,+Portland+DT5+2DP,+United+Kingdom/@50.523668,-2.4425505,15.5z/data=!4m40!4m39!1m5!1m1!1s0x4872f05f87faba3b:0xb26026c0a8cc6e23!2m2!1d-2.4411815!2d50.5293224!1m25!1m1!1s0x4872f04e3875074d:0x2bbac40d27399934!2m2!1d-2.4563995!2d50.5141841!3m4!1m2!1d-2.4535609!2d50.5155558!3s0x4872f04eef59f407:0xaf23e9b909accfcf!3m4!1m2!1d-2.4521406!2d50.5166981!3s0x4872f05b7a52c561:0x36414cf026493a50!3m4!1m2!1d-2.4484788!2d50.518595!3s0x4872f05b7a52c561:0x36414cf026493a51!3m4!1m2!1d-2.4527143!2d50.5163381!3s0x4872f04f087bd253:0xeb91669fc59092d6!1m5!1m1!1s0x4872f05f87faba3b:0xb26026c0a8cc6e23!2m2!1d-2.4411815!2d50.5293224!3e2?entry=ttu)
+- [chesil_beach.jpeg](https://www.visit-dorset.com/listing/chesil-beach/130690301/)
+- [portland_castle.jpg](https://www.pinterest.co.uk/pin/612348880575600672/visual-search/?x=16&y=16&w=532&h=418&cropSource=6&surfaceType=flashlight)
+- [toutquarrysculpture.jpg](https://www.atlasobscura.com/places/tout-quarry-sculpture-park)
+- [church-ope-cover.jpg](https://www.tripadvisor.co.uk/Attraction_Review-g551714-d6105366-Reviews-Church_Ope_Cove-Isle_of_Portland_Dorset_England.html#/media-atf/6105366/133872949:p/?albumid=-160&type=0&category=-160)
+- [chesil_cove.jpg](https://www.portlandholiday.co.uk/portfolio/chesil-cove-portland/)
+- [Portlandmuseum.jpg](https://www.visit-dorset.com/listing/portland-museum/13752301/)
+- [thebill.jpg](https://wdlh.co.uk/offsite-place/portland-bill/)
   
 ## Video Used
 -[Limestone youtube video](https://www.youtube.com/watch?v=tNsV61csn-A).
