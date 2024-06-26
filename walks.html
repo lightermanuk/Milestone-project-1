@@ -15,7 +15,6 @@
           rel="stylesheet">
 
     <style>
-        
         body {
             background-image: url('assets/images/fortuneswell.jpg');
             background-repeat: no-repeat;
@@ -24,15 +23,35 @@
         }
 
         .blurb {
-    font-size: x-large;
-    font-family: fantasy;
-    font-weight: 400;
-    background-image: url('assets/images/portland_stone_natural.jpg');
-    background-size: cover; /* Ensures the image covers the entire element */
-    background-position: center; /* Centers the background image */
-    background-repeat: no-repeat; /* Prevents the image from repeating */
-    color: black; /* Optional: Changes text color for better contrast */
-    padding: 20px; /* Optional: Adds some padding for better readability */
+            font-size: x-large;
+            font-family: fantasy;
+            font-weight: 400;
+            background-image: url('assets/images/portland_stone_natural.jpg');
+            background-size: cover; /* Ensures the image covers the entire element */
+            background-position: center; /* Centers the background image */
+            background-repeat: no-repeat; /* Prevents the image from repeating */
+            color: black; /* Optional: Changes text color for better contrast */
+            padding: 20px; /* Optional: Adds some padding for better readability */
+        }
+
+        .video-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+
+        .video-container iframe {
+            width: 48%;
+            height: 225px; /* Adjust the height as needed */
+            max-width: 48%;
+            margin: 1%;
+        }
+
+        .video-container-single iframe {
+            width: 80%;
+            height: 450px; /* Adjust the height as needed */
+            max-width: 100%;
         }
     </style>
     
@@ -71,48 +90,55 @@
             <span id="weather" class="weather"></span>
         </h1>
 
-            
-        <section>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/8Slms4kRl8I?si=dn27pikVXCACrteQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p class="blurb">
+            Fancy seeing Portland in 3D and in 4K so you can get your bearings? Check out these vids!!
+        </p>
+
+        <section class="video-container">
+            <iframe src="https://www.youtube.com/embed/PXmh1LxSJXs?si=tmxI5hrwXxJYoA2T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/8Slms4kRl8I?si=dn27pikVXCACrteQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </section>
 
         <section>
             <p class="reasons text-center">
                 Portland is walkers paradise! It has unique challenges geographically and weather wise also. Here are 3 of the top walks on the Island.
-                </p>
+            </p>
         </section>
 
         <section>
             <p class="blurb">
-              Southwell to Portland Bill: (Easy Difficulty)
+                Southwell to Portland Bill: (Easy Difficulty)
             </p>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/3CZQK9eDybA?si=-kl6aFe-9HCf-CM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-          </section>
+            <div class="video-container-single">
+                <iframe src="https://www.youtube.com/embed/3CZQK9eDybA?si=-kl6aFe-9HCf-CM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </section>
           
-          <section>
+        <section>
             <p class="blurb">
-              Verne High Angle Battery Walk: (Medium Difficulty) Delve into Portland's military past with the Verne High Angle Battery Walk. Explore the network of tunnels and gun emplacements built to defend the island from invasion. This walk offers fascinating insights into Portland's strategic importance and provides stunning views of the surrounding coastline.
+                Verne High Angle Battery Walk: (Medium Difficulty) Delve into Portland's military past with the Verne High Angle Battery Walk. Explore the network of tunnels and gun emplacements built to defend the island from invasion. This walk offers fascinating insights into Portland's strategic importance and provides stunning views of the surrounding coastline.
             </p>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/8frHbxZ-Z6Q?si=nuFD8Zj1nxXEJJjn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-          </section>
+            <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/JYcfHGqdyGA?si=yzjNPORQUdjA5w74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/8frHbxZ-Z6Q?si=nuFD8Zj1nxXEJJjn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </section>
           
-          <section>
+        <section>
             <p class="blurb">
-              Portland Circular Walk: (Hard Difficulty) Discover the hidden gems and rich history of Portland on this circular walk. Explore the charming streets of the old town, visit the impressive Portland Castle, and take in panoramic views from the heights. This walk is a perfect way to get a well-rounded experience of this captivating island.
+                Portland Circular Walk: (Hard Difficulty) Discover the hidden gems and rich history of Portland on this circular walk. Explore the charming streets of the old town, visit the impressive Portland Castle, and take in panoramic views from the heights. This walk is a perfect way to get a well-rounded experience of this captivating island.
             </p>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/NwURiPuwpKU?si=6Q044ip68TCcBs1G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when_cross-origin" allowfullscreen></iframe>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/Mujavt8cdFY?si=-Hc7LQooE_y2XIuZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when_cross-origin" allowfullscreen></iframe>
-          </section>
-          
+            <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/Msg7ZfGNi74?si=9XJv35kY1nuSd4Fe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/NwURiPuwpKU?si=6Q044ip68TCcBs1G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/Mujavt8cdFY?si=-Hc7LQooE_y2XIuZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/Msg7ZfGNi74?si=9XJv35kY1nuSd4Fe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </section>
 
-    <footer>
-       All rights of the images are owned by the respective owners.  Images are used for educational purposes only.
-    </footer>
+        <footer>
+            All rights of the images are owned by the respective owners. Images are used for educational purposes only.
+        </footer>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
-            integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
-            crossorigin="anonymous"></script>
-</body>
-</html>
-
-        
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+                integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdsl
