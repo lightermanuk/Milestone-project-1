@@ -105,7 +105,7 @@ The Tourist Attractions Page features the island’s must-visit spots, complete 
 - [Portlandmuseum.jpg](https://www.visit-dorset.com/listing/portland-museum/13752301/)
 - [thebill.jpg](https://wdlh.co.uk/offsite-place/portland-bill/)
   
-## Video Used
+## Videos Used
 -[Limestone youtube video](https://www.youtube.com/watch?v=tNsV61csn-A).
 -[Southwell to Portland Bill Walk youtube video](https://www.youtube.com/watch?v=3CZQK9eDybA)
 -[Portland Circular Walk Youtube Video](https://www.youtube.com/watch?v=1yS7UnEG-6Q)
