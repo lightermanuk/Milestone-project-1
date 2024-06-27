@@ -12,7 +12,7 @@ There is no installation required for this project as it is a static website. Si
 To access the website, navigate through the different pages:
 - **Home**: Provides an overview of Portland with a map and highlights.
 - **History**: Explores the historical background of Portland with detailed narratives and media.
-- **Walks**: Features popular walking routes on the island with scenic views and directions.
+- **Walks**: Features popular walking routes on the island with scenic videos including route directions.
 - **Tourist Attractions**: Highlights key attractions like Portland Bill and Chesil Beach with photos and information.
 
 ## Sitemap
@@ -71,6 +71,47 @@ The Tourist Attractions Page features the island’s must-visit spots, complete 
 - Tout Quarry Sculpture Park: An abandoned quarry turned into a unique sculpture park, blending natural beauty with artistic creations.
 - Church Ope Cove: A picturesque cove with historical ruins and opportunities for fossil hunting.
 
+# User Journey
+
+## Homepage
+Landing on the Homepage
+Users arrive at the homepage titled "The Island."
+The navigation bar at the top offers links to various sections: Home, Tourist Attractions, History, and Walks.
+
+## Introduction Section
+Users see the main heading "Portland" with a current live weather widget.
+Below the heading, users are welcomed with a message: "Welcome to the Island of Portland!"
+Blurb Section
+Users read a brief introduction to the Island of Portland, describing its location and connection to the mainland via Chesil Beach.
+Image Section
+A three-column section presents images of different aspects of Portland: a map, rowing boats, and Portland Bill. These images link back to the homepage.
+## Carousel Section
+Users view a carousel featuring three images with captions: an aerial view of the island, Chesil Beach, and Pulpit Rock at sunset.
+Users can navigate through the images using the carousel controls.
+## Final Blurb
+A concluding message emphasizes the beauty and suitability of Portland for exploration and visitors of all ages.
+## Tourist Attractions Page
+Navigating to Tourist Attractions
+Users click on the "Tourist Attractions" link in the navigation bar.
+They are directed to a page with pictures and details of the top nine tourist attractions on the island.
+## History Page
+Navigating to History Page
+Users click on the "History" link in the navigation bar.
+They are directed to a page that provides historical information about the Island of Portland, along with a carousel of examples of limestone buildings and a limestone factory video.
+## Walks Page
+Navigating to Walks Page
+Users click on the "Walks" link in the navigation bar.
+They are directed to a page that has three walking routes with accompanying videos and a Portland Island tour video section.
+## Footer
+Footer Information
+Users reach the footer, which states that all images are used for educational purposes and rights belong to the respective owners.
+## Overall Experience
+## Responsive Design
+Users experience seamless navigation on both desktop and mobile devices due to the responsive design.
+## Intuitive Navigation
+The simple and clear navigation structure ensures users can easily find the information they need.
+## Engaging Visuals
+The use of high-quality images and a carousel makes the website visually appealing and engaging for users.
 
 
 ## Image References
