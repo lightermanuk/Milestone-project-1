@@ -1,3 +1,5 @@
+https://lightermanuk.github.io/Milestone-project-1/
+
 # Milestone 1 Project: The Island of Portland
 
 I thought I would do a website on somewhere near my hometown. This is becuase I originally decided to do it on flowers, but know very little about flowers. Whereas portland I know about and can easily produce subjects for pages. Furthermore, it is a very beautiful and photographic location so my webpage is naturally visually appealing.
