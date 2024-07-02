@@ -45,16 +45,16 @@
         }
 
         .video-container iframe {
-            width: 80%;
+            width: 100%; 
             height: 500px;
-            max-width: 100%;
+            max-width: 80%; 
             margin-bottom: 20px;
         }
 
-        .video-container-single iframe {
-            width: 80%;
-            height: 500px;
-            max-width: 100%;
+        @media (min-width: 768px) {
+            .video-container iframe {
+                width: 80%;
+            }
         }
     </style>
     
