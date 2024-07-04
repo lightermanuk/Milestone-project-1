@@ -2,7 +2,7 @@ https://lightermanuk.github.io/Milestone-project-1/
 
 # Milestone 1 Project: The Island of Portland
 
-I thought I would do a website on somewhere near my hometown. This is becuase I originally decided to do it on flowers, but know very little about flowers. Whereas portland I know about and can easily produce subjects for pages. Furthermore, it is a very beautiful and photographic location so my webpage is naturally visually appealing.
+I thought I would do a website on somewhere near my hometown. This is becuase I originally decided to do it on flowers, but know very little about flowers. Whereas portland I know about and can easily produce subjects for pages. Furthermore, it is a very beautiful and photographic location so my webpage is naturally visually appealing.  Why make the website on Portland?  Portland is an underrated outrageously different small Island that deserves more spotlight than it currently has.  Wikipedia may have some information and there are some websites out there but most are laced in with Weymouth and this website is purely on Portland and what it offers.  It truly is one of my favourite places in the world and I genuinely feel the internet isn't serving its purpose fully when you search 'portland' in google.
 
 ## Project Description
 This project aims to provide comprehensive information about the Isle of Portland, including its history, popular walks, and tourist attractions. The website showcases various media such as images, videos, and descriptive content to enhance the understanding and appreciation of Portland.
@@ -55,7 +55,7 @@ The History Page delves into the fascinating past of the Island of Portland, hig
 - Medieval Period: Development of Portland Castle by Henry VIII.
 - 19th Century: Expansion due to quarrying activities and the arrival of the railway.
 - World Wars: The island's role during both World War I and World War II, including its use as a defensive stronghold and a base for the Royal Navy.
-- London Oylmpic Sailing 2012.
+- London Olympic Sailing 2012.
 
 ## Walks Page
 The Walks Page offers detailed descriptions of various scenic walks around the island, catering to all levels of hikers. Highlights include:
@@ -80,26 +80,28 @@ Landing on the Homepage
 Users arrive at the homepage titled "The Island."
 The navigation bar at the top offers links to various sections: Home, Tourist Attractions, History, and Walks.
 
-## Introduction Section
+### Introduction Section
 Users see the main heading "Portland" with a current live weather widget.
 Below the heading, users are welcomed with a message: "Welcome to the Island of Portland!"
-Blurb Section
+### Blurb Section
 Users read a brief introduction to the Island of Portland, describing its location and connection to the mainland via Chesil Beach.
 Image Section
 A three-column section presents images of different aspects of Portland: a map, rowing boats, and Portland Bill. These images link back to the homepage.
-## Carousel Section
+### Carousel Section
 Users view a carousel featuring three images with captions: an aerial view of the island, Chesil Beach, and Pulpit Rock at sunset.
 Users can navigate through the images using the carousel controls.
-## Final Blurb
+### Final Blurb
 A concluding message emphasizes the beauty and suitability of Portland for exploration and visitors of all ages.
 ## Tourist Attractions Page
 Navigating to Tourist Attractions
 Users click on the "Tourist Attractions" link in the navigation bar.
-They are directed to a page with pictures and details of the top nine tourist attractions on the island.
+They are directed to a page with nine flipcard pictures in a 3 by 3 grid, of the top tourist attractions on the island, with information on the reverse of the flipcard, as they hover over the images. 
 ## History Page
 Navigating to History Page
 Users click on the "History" link in the navigation bar.
-They are directed to a page that provides historical information about the Island of Portland, along with a carousel of examples of limestone buildings and a limestone factory video.
+They are directed to a page that provides historical information, with accompanying high quality images about the Island of Portland. Firstly in two columns and then across the page so there is variation to keep the user engaged.
+### Carousel Section
+A large carousel of examples of famous limestone buildings at the bottom of the page,  and a portland limestone factory video as a last item on the carousel which can be expanded.
 ## Walks Page
 Navigating to Walks Page
 Users click on the "Walks" link in the navigation bar.
@@ -108,12 +110,15 @@ They are directed to a page that has three walking routes with accompanying vide
 Footer Information
 Users reach the footer, which states that all images are used for educational purposes and rights belong to the respective owners.
 ## Overall Experience
-## Responsive Design
+### Responsive Design
 Users experience seamless navigation on both desktop and mobile devices due to the responsive design.
-## Intuitive Navigation
+### Intuitive Navigation
 The simple and clear navigation structure ensures users can easily find the information they need.
-## Engaging Visuals
+### Engaging Visuals
 The use of high-quality images and a carousel makes the website visually appealing and engaging for users.
+
+## Target Audience
+The target audience is adults , male or female. Who have hobbies which could include history, dog walking, rambling, hiking and general holiday makers that haven't heard of portland.  It is specifically on Portland as Portland is unique and a bit of a niche.  It has extra detail on the history page to encourage people who enjoy history to come and visit the island.
 
 
 ## Image References
