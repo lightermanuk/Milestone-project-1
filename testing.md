@@ -84,6 +84,3 @@ Below is a list of bugs I found during the development process by testing myself
   ![Screenshot of W3C Validator](docs/automated_testing/W3C_CSS_Validator_results_for_TextArea(CSS_level_3+_SVG)_page-0001.jpg)
 
 ![CSS validator badge](https://jigsaw.w3.org/css-validator/images/vcss)
-
-
-[return to README.md](README.md)
