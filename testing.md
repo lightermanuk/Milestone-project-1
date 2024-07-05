@@ -68,7 +68,7 @@ Below is a list of bugs I found during the development process by testing myself
         * 2 Warnings: 'Section lacks heading. same as above, ignored. 
     * ***Solution Used:***
         *  There are plenty of divs and the simpler the better.  Sections elements applied serve the semantic element purpose appropriately.
-        *  ![Screenshot of W3C Validator](docs/.jpg)
+        *  ![Screenshot of W3C Validator](docs/automated testing/touristattractionshtmlcheckersnip.jpg)
 
     ### **Validators used**
 
