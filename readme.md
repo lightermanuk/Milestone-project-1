@@ -108,6 +108,7 @@ Users click on the "History" link in the navigation bar.
 They are directed to a page that provides historical information, with accompanying high quality images about the Island of Portland. Firstly in two columns and then across the page so there is variation to keep the user engaged.
 ### Carousel Section
 A large carousel of examples of famous limestone buildings at the bottom of the page,  and a portland limestone factory video as a last item on the carousel which can be expanded.
+![Screenshot of history carousel](docs/screenshots/historycarousescreenshot.jpg)
 ## Walks Page
 Navigating to Walks Page
 Users click on the "Walks" link in the navigation bar.
