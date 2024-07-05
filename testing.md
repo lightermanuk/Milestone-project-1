@@ -14,7 +14,7 @@ During the development process, I was manually testing in the following ways:-
 * I then used the devtools to simulate different screen sizes/devices.
 * In addition to this, I tested using an iPhone 12 Pro Max using safari. There were reported no issues or bugs, only font changes.
 
-### ***Bugs,Fixes, Automated validators testing.
+### ***Bugs,Fixes, Automated validators testing:***
 
 Below is a list of bugs I found during the development process by testing myself via the live server extension on VSCode. Also it contains the automated validation errors and warnings.
 
@@ -63,7 +63,7 @@ Below is a list of bugs I found during the development process by testing myself
         * 5 Warnings: 'Section lacks heading. same as above, ignored.  Validator also found 1 warning a potentially bad value about script integrity attribute as it should be a multiple of 4 bytes.
     * ***Solution Used:***
         * I think this is a validation error as column 199 it relates to, is empty and the integrity is a sha reference and must be set as anoymous.
-10.**Intended Outcome** - W3 HTML validator to show no errors for touristattractions.html
+10. **Intended Outcome** - W3 HTML validator to show no errors for touristattractions.html
     * ***Issue Found:***
         * 2 Warnings: 'Section lacks heading. same as above, ignored. 
     * ***Solution Used:***
