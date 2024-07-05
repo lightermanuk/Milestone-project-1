@@ -4,7 +4,8 @@ https://lightermanuk.github.io/Milestone-project-1/
 
 I thought I would do a website on somewhere near my home town. This is because I originally decided to do it on flowers, but know very little about flowers. Whereas Portland I know about and can easily produce subjects for pages. Furthermore, it is a very beautiful and photographic location so my webpage is naturally visually appealing.  Why make the website about Portland?  Portland is an outrageously underrated quirky small Island that deserves more spotlight than it currently has.  Wikipedia may have some information and there are some websites out there but most are laced in with Weymouth but my website is purely on Portland and what it offers.  It truly is one of my favourite places in the world and I genuinely feel the internet isn't serving its purpose fully when you search 'Portland UK' in google.  I wouldn't say this is mobile first project, as a smaller screen doesn't do the Island, full justice.  It is that picturesque.  However, the carousels, you tube videos and flip cards all function on a mobile screen and look great.  For example the drone video on the walks page on a mobile would be hard to fully watch on a mobile screen, there is scenery and visuals you wouldn’t be able to see properly on the average phone screen.
 
-![Am I responsive screenshot](docs/screenshots/am-i-responsive.jpg)
+## Screenshot of home page
+![Screenshot of the homepage](docs/screenshots/screenshotlandingpage.jpg)
 
 ## Project Description
 This project aims to provide comprehensive information about the Isle of Portland, including its history, popular walks, and tourist attractions. The website showcases various media such as images, videos, and descriptive content to enhance the understanding and appreciation of Portland.
@@ -60,14 +61,16 @@ The History Page delves into the fascinating past of the Island of Portland, hig
 - London Olympic Sailing 2012.
 
 ## Walks Page
-The Walks Page offers detailed descriptions of various scenic walks around the island, catering to all levels of hikers. Highlights include:
+
+![Screenshot of walks](docs/screenshots/walkingvidssnip.jpg)
+The Walks Page offers descriptions and videos of various scenic walks around the island, catering to all levels of hikers. Highlights include:
 
 - Southwell to Portland Bill: A lovely easy going walk.
 - Verne High Angle Battery Walk: A walk to the Victorian fortifications with panoramic views.
 - Portland Circular Walk: A walk providing stunning views of the coastline and historical sites.
 
 ## Tourist Attractions Page
-The Tourist Attractions Page features the island’s must-visit spots, complete with pictures, videos, and detailed descriptions. Major attractions include:
+The Tourist Attractions Page features the island’s nine must-visit spots in flipcard format, complete with pictures and descriptions. Major attractions include:
 
 - Portland Bill: The iconic lighthouse at the southern tip of the island, offering spectacular views and a visitor center with historical exhibits.
 - Chesil Beach: A stunning 18-mile long shingle beach connecting Portland to the mainland, ideal for walking and birdwatching.
@@ -98,6 +101,7 @@ A concluding message emphasizes the beauty and suitability of Portland for explo
 Navigating to Tourist Attractions
 Users click on the "Tourist Attractions" link in the navigation bar.
 They are directed to a page with nine flipcard pictures in a 3 by 3 grid, of the top tourist attractions on the island, with information on the reverse of the flipcard, as they hover over the images. 
+![Flipcards Screenshot](docs/screenshots/flipcardsscreenshot.jpg)
 ## History Page
 Navigating to History Page
 Users click on the "History" link in the navigation bar.
@@ -120,7 +124,7 @@ The simple and clear navigation structure ensures users can easily find the info
 The use of high-quality images and a carousel makes the website visually appealing and engaging for users.
 
 ## Target Audience
-The target audience is adults , male or female. Who have hobbies which could include history, dog walking, rambling, hiking and general holiday makers that haven't heard of portland.  It is specifically on Portland as Portland is unique and a bit of a niche.  It has extra detail on the history page to encourage people who enjoy history to come and visit the island.
+The target audience is adults , male or female. Who have hobbies which could include history, dog walking, rambling, hiking and general holiday makers that haven't heard of Portland.  It is specifically on Portland as Portland is unique and a bit of a niche.  It has extra detail on the history page to encourage people who enjoy history to come and visit the island.  It might be the missing piece they are looking for on the UK's coast.
 
 ### **Wireframes:**
 I created wireframes for this project. Below are links to each of these. 
