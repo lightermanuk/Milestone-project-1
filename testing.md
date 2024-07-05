@@ -1,12 +1,3 @@
-# Testing Page Table of Contents
-
-    * [*Manual Testing*](#manual-testing)
-    * [*Bugs and Fixes*](#bugs-and-fixes)
-* [**Post Development Testing**](#post-development-testing)
-  * [**Validators**](#validators)
-      * [*HTML*](#html---httpsvalidatorw3orgnu)
-      * [*CSS*](#css---httpsjigsaww3orgcss-validator)
-
 ## **During Development Testing**
 During the development process, I was manually testing in the following ways:-
 
