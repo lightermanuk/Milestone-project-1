@@ -2,7 +2,7 @@ https://lightermanuk.github.io/Milestone-project-1/
 
 # Milestone 1 Project: The Island of Portland
 
-I thought I would do a website on somewhere near my hometown. This is becuase I originally decided to do it on flowers, but know very little about flowers. Whereas portland I know about and can easily produce subjects for pages. Furthermore, it is a very beautiful and photographic location so my webpage is naturally visually appealing.
+I thought I would do a website on somewhere near my hometown. This is becuase I originally decided to do it on flowers, but know very little about flowers. Whereas portland I know about and can easily produce subjects for pages. Furthermore, it is a very beautiful and photographic location so my webpage is naturally visually appealing.  Why make the website on Portland?  Portland is an underrated outrageously different small Island that deserves more spotlight than it currently has.  Wikipedia may have some information and there are some websites out there but most are laced in with Weymouth and this website is purely on Portland and what it offers.  It truly is one of my favourite places in the world and I genuinely feel the internet isn't serving its purpose fully when you search 'portland uk' in google.  I wouldn't say this is mobile first as a smaller screen doesn't do the Island full justice.  It is that picturesque.  However the carousels, you tube videos and flip cards all function on a mobile screen and look great.  For example the drone video on the walks page on a mobile would be hard to fully watch on a mobile screen, there is alot of scenery you would miss.
 
 ## Project Description
 This project aims to provide comprehensive information about the Isle of Portland, including its history, popular walks, and tourist attractions. The website showcases various media such as images, videos, and descriptive content to enhance the understanding and appreciation of Portland.
@@ -55,7 +55,7 @@ The History Page delves into the fascinating past of the Island of Portland, hig
 - Medieval Period: Development of Portland Castle by Henry VIII.
 - 19th Century: Expansion due to quarrying activities and the arrival of the railway.
 - World Wars: The island's role during both World War I and World War II, including its use as a defensive stronghold and a base for the Royal Navy.
-- London Oylmpic Sailing 2012.
+- London Olympic Sailing 2012.
 
 ## Walks Page
 The Walks Page offers detailed descriptions of various scenic walks around the island, catering to all levels of hikers. Highlights include:
@@ -80,26 +80,28 @@ Landing on the Homepage
 Users arrive at the homepage titled "The Island."
 The navigation bar at the top offers links to various sections: Home, Tourist Attractions, History, and Walks.
 
-## Introduction Section
+### Introduction Section
 Users see the main heading "Portland" with a current live weather widget.
 Below the heading, users are welcomed with a message: "Welcome to the Island of Portland!"
-Blurb Section
+### Blurb Section
 Users read a brief introduction to the Island of Portland, describing its location and connection to the mainland via Chesil Beach.
 Image Section
 A three-column section presents images of different aspects of Portland: a map, rowing boats, and Portland Bill. These images link back to the homepage.
-## Carousel Section
+### Carousel Section
 Users view a carousel featuring three images with captions: an aerial view of the island, Chesil Beach, and Pulpit Rock at sunset.
 Users can navigate through the images using the carousel controls.
-## Final Blurb
+### Final Blurb
 A concluding message emphasizes the beauty and suitability of Portland for exploration and visitors of all ages.
 ## Tourist Attractions Page
 Navigating to Tourist Attractions
 Users click on the "Tourist Attractions" link in the navigation bar.
-They are directed to a page with pictures and details of the top nine tourist attractions on the island.
+They are directed to a page with nine flipcard pictures in a 3 by 3 grid, of the top tourist attractions on the island, with information on the reverse of the flipcard, as they hover over the images. 
 ## History Page
 Navigating to History Page
 Users click on the "History" link in the navigation bar.
-They are directed to a page that provides historical information about the Island of Portland, along with a carousel of examples of limestone buildings and a limestone factory video.
+They are directed to a page that provides historical information, with accompanying high quality images about the Island of Portland. Firstly in two columns and then across the page so there is variation to keep the user engaged.
+### Carousel Section
+A large carousel of examples of famous limestone buildings at the bottom of the page,  and a portland limestone factory video as a last item on the carousel which can be expanded.
 ## Walks Page
 Navigating to Walks Page
 Users click on the "Walks" link in the navigation bar.
@@ -108,12 +110,15 @@ They are directed to a page that has three walking routes with accompanying vide
 Footer Information
 Users reach the footer, which states that all images are used for educational purposes and rights belong to the respective owners.
 ## Overall Experience
-## Responsive Design
+### Responsive Design
 Users experience seamless navigation on both desktop and mobile devices due to the responsive design.
-## Intuitive Navigation
+### Intuitive Navigation
 The simple and clear navigation structure ensures users can easily find the information they need.
-## Engaging Visuals
+### Engaging Visuals
 The use of high-quality images and a carousel makes the website visually appealing and engaging for users.
+
+## Target Audience
+The target audience is adults , male or female. Who have hobbies which could include history, dog walking, rambling, hiking and general holiday makers that haven't heard of portland.  It is specifically on Portland as Portland is unique and a bit of a niche.  It has extra detail on the history page to encourage people who enjoy history to come and visit the island.
 
 
 ## Image References
@@ -169,3 +174,42 @@ This project does not include licensing information as it is a college assignmen
 ## Contact
 For any inquiries, please contact the project creator directly.
 
+## Accessability elements
+
+To ensure it is usable by everyone, including people with disabilities there is the following.
+
+1. Keyboard Navigation
+All interactive elements (links, buttons, carousels, videos etc.) are accessible via keyboard.
+Focus indicators are visible and clear.
+2. Screen Reader Compatibility
+All non-text content has appropriate alt text.
+3. Text and Contrast
+Text is resizable up to 200% without loss of content or functionality.
+Sufficient color contrast between text and background, large bright orange and yellow agiaint the colourful background , large black on limestone slate for clear visability.
+Use of accessible fonts and avoidance of text embedded in images.
+4. Multimedia
+Video and audio content include synchronized captions and transcripts.
+Audio descriptions are provided for video content where necessary.
+Controls for multimedia are accessible via keyboard.
+5. Forms
+Labels are clearly associated with their respective input fields.
+Instructions and error messages are clear and concise.
+Form validation messages are accessible to screen readers.
+6. Navigation
+Consistent navigation mechanisms are used across the website.
+Skip navigation links are provided to bypass repetitive content.
+Headings and landmarks (header, nav, main, footer) are used to organize content and facilitate navigation.
+7. Responsive Design
+The website is accessible on various devices and screen sizes.
+Touch targets are large enough to be activated without accidental taps.
+8. Content Structure
+Use of semantic HTML to ensure content is structured logically.
+Headings (h1, h2, h3, etc.) are used in a hierarchical manner to organize content.
+Lists (ul, ol) and tables are used properly to present structured information.
+9. User Preferences
+Users can adjust settings such as font size and contrast.
+Avoidance of content that flashes or flickers to prevent seizures in susceptible individuals.
+10. Testing and Evaluation
+Regular accessibility audits using automated tools and manual testing.
+User feedback is encouraged and used to improve accessibility.
+Continuous updates and improvements based on WCAG guidelines.
