@@ -84,3 +84,5 @@ Below is a list of bugs I found during the development process by testing myself
   ![Screenshot of W3C Validator](docs/automated_testing/W3C_CSS_Validator_results_for_TextArea(CSS_level_3+_SVG)_page-0001.jpg)
 
 ![CSS validator badge](https://jigsaw.w3.org/css-validator/images/vcss)
+
+In conclusion and to evaluate. It is a working webpage.  If I had more time I would fix the menu on mobile devices on the walks page and seek feedback from others which could lead to more changes.  I would also try and get Sarafi to comply with the fontfamily of the windows and android format.  The main interactive features work seemlessly on all devices and I feel that is the main objective.
