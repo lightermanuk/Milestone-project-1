@@ -49,6 +49,26 @@ To access the website, navigate through the different pages:
       |--- Fortuneswell
       |--- Portland Bird Observatory
 
+## **Typography**
+* Throughout the pages, there are four fonts used:
+  * 'Anton' for boldness for the titles, subject headings and main content 
+  * "Lucida Console"; - For the footer and as a fall back for Safari.
+  * I left the default font for the nav bar (bootstrap) and the back of the flip cards as it looked clear and tidy.
+
+### **Content:**
+* All content was written by myself.
+* Icons in the header were taken from [Font Awesome](https://fontawesome.com)
+* Main font imported from - [Google Fonts](https://fonts.google.com/)
+
+### **Design /User Experience:**
+* There is adequate sizing of the fonts to be able to read the words clearly against the backgrounds.
+* The font colour is nice a bright and for the information black and clear, easy to read.
+* The arrows are large in their size for ease to turn the carousel.
+* The navbar highlights the menu items as you hover over so the user knows the button is ready for that and will be responsive.
+* I kept the content to a minimum to keep the pages lively and interesting , quality over quantity.  History has the most content but that is still brief.
+* The images funnel into a single column on smaller screens.  Apart from the homepage but that is deliberate to keep the page like a book cover.
+* Also the weather is not on history as there was no need for it there.  Also the nav bar and footer do not stay on the page when you scroll as that would remove some of the page's visual appeal with not much actual benefit.
+
 
 
 ## History Page
@@ -190,7 +210,7 @@ This project does not include licensing information as it is a college assignmen
 ## Contact
 For any inquiries, please contact the project creator directly.
 
-## Accessability elements
+## Accessibility Elements
 
 To ensure it is usable by everyone, including people with disabilities there is the following.
 
