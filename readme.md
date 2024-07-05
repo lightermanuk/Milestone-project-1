@@ -158,6 +158,7 @@ I created wireframes for this project. Below are links to each of these.
  
 ### **Colour Palettes:**
 I took a common-sensical approach to the colour scheme used on the page.  The background image was key to add 'life' to the page from a blank canvas.  Then I wanted the heading 'Portland' to be as bright as possible.  I want it to almost look weird, as there is a saying 'keep portland weird' . https://en.wikipedia.org/wiki/Keep_Portland_Weird
+![colorscheme](assets/images/colors.jpg)
 
 
 ## Image References
