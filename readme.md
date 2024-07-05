@@ -168,7 +168,7 @@ I took a common-sensical approach to the colour scheme used on the page.  The ba
 
 ### **Content:**
 * All content was written by myself.
-* Icons in the header were taken from [Font Awesome](https://fontawesome.com)
+* Icons in the navbar header were taken from [Font Awesome](https://fontawesome.com)
 * Main font imported from - [Google Fonts](https://fonts.google.com/)
 
 ### **Design /User Experience:**
