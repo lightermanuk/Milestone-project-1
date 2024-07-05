@@ -81,7 +81,7 @@ Below is a list of bugs I found during the development process by testing myself
 #### ***CSS*** - https://jigsaw.w3.org/css-validator/
 
 * CSS page tested, no issues found via text input.
-  ![Screenshot of W3C Validator](docs/automated_testing/touristattractionshtmlcheckersnip.jpg)
+  ![Screenshot of W3C Validator](docs/automated_testing/W3C_CSS_Validator_results_for_TextArea(CSS_level_3+_ SVG)_page-0001.jpg)
 
 ![CSS validator badge](https://jigsaw.w3.org/css-validator/images/vcss)
 
