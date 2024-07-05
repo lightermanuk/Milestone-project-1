@@ -52,23 +52,27 @@ Below is a list of bugs I found during the development process by testing myself
     * ***Issue Found:***
         * 5 Warnings: 'Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed.   '
     * ***Solution Used:***
-        * This is just a warning and there is no need for a h2 - h6 element.  I added the section elements for semantic purposes to define the content.  Div adding would make it less easy to follow for another developer, there are enough divs.
+        * This is just a warning and there is no need for a h2 - h6 element.  I added the section elements for semantic purposes to define the content.  Div adding would make it less easy to follow for another developer, there are sufficient divs.
+          ![Screenshot of W3C Validator](docs/automated_testing/index5warningssnip.jpg)
 8. **Intended Outcome** - W3 HTML validator to show no errors for history.html
     * ***Issue Found:***
         * 5 Warnings: 'Section lacks heading. same as above, ignored.  Validator also found 2 errors; 1 =The frameborder attribute being obselete on an iframe. 2 = At a space was not allowed in path segment.  
     * ***Solution Used:***
-        * 1 = Deleted the frame border attribute as the value was set at 0 anyway. 2 = Added an underscore to filename instead of a space, despite the image working on browser. "portland-5 rings-more-zoom.jpg"    
+        * 1 = Deleted the frame border attribute as the value was set at 0 anyway. 2 = Added an underscore to filename instead of a space, despite the image working on browser. "portland-5 rings-more-zoom.jpg"
+          ![Screenshot of W3C Validator](docs/automated_testing/historyhtmlvalidationresults.jpg)
 9. **Intended Outcome** - W3 HTML validator to show no errors for walks.html
     * ***Issue Found:***
         * 5 Warnings: 'Section lacks heading. same as above, ignored.  Validator also found 1 warning a potentially bad value about script integrity attribute as it should be a multiple of 4 bytes.
     * ***Solution Used:***
         * I think this is a validation error as column 199 it relates to, is empty and the integrity is a sha reference and must be set as anoymous.
+          ![Screenshot of W3C Validator](docs/automated_testing/walkshtmlvalidatorresults.jpg)
+        
 10. **Intended Outcome** - W3 HTML validator to show no errors for touristattractions.html
     * ***Issue Found:***
         * 2 Warnings: 'Section lacks heading. same as above, ignored. 
     * ***Solution Used:***
         *  There are plenty of divs and the simpler the better.  Sections elements applied serve the semantic element purpose appropriately.
-        *  ![Screenshot of W3C Validator](docs/automated testing/touristattractionshtmlcheckersnip.jpg)
+           ![Screenshot of W3C Validator](docs/automated_testing/touristattractionshtmlcheckersnip.jpg)
 
     ### **Validators used**
 
