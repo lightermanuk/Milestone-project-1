@@ -2,7 +2,9 @@ https://lightermanuk.github.io/Milestone-project-1/
 
 # Milestone 1 Project: The Island of Portland
 
-I thought I would do a website on somewhere near my hometown. This is becuase I originally decided to do it on flowers, but know very little about flowers. Whereas portland I know about and can easily produce subjects for pages. Furthermore, it is a very beautiful and photographic location so my webpage is naturally visually appealing.  Why make the website on Portland?  Portland is an underrated outrageously different small Island that deserves more spotlight than it currently has.  Wikipedia may have some information and there are some websites out there but most are laced in with Weymouth and this website is purely on Portland and what it offers.  It truly is one of my favourite places in the world and I genuinely feel the internet isn't serving its purpose fully when you search 'portland uk' in google.  I wouldn't say this is mobile first as a smaller screen doesn't do the Island full justice.  It is that picturesque.  However the carousels, you tube videos and flip cards all function on a mobile screen and look great.  For example the drone video on the walks page on a mobile would be hard to fully watch on a mobile screen, there is alot of scenery you would miss.
+I thought I would do a website on somewhere near my home town. This is because I originally decided to do it on flowers, but know very little about flowers. Whereas Portland I know about and can easily produce subjects for pages. Furthermore, it is a very beautiful and photographic location so my webpage is naturally visually appealing.  Why make the website about Portland?  Portland is an outrageously underrated quirky small Island that deserves more spotlight than it currently has.  Wikipedia may have some information and there are some websites out there but most are laced in with Weymouth but my website is purely on Portland and what it offers.  It truly is one of my favourite places in the world and I genuinely feel the internet isn't serving its purpose fully when you search 'Portland UK' in google.  I wouldn't say this is mobile first project, as a smaller screen doesn't do the Island, full justice.  It is that picturesque.  However, the carousels, you tube videos and flip cards all function on a mobile screen and look great.  For example the drone video on the walks page on a mobile would be hard to fully watch on a mobile screen, there is scenery and visuals you wouldn’t be able to see properly on the average phone screen.
+
+![Am I responsive screenshot](docs/screenshots/am-i-responsive.jpg)
 
 ## Project Description
 This project aims to provide comprehensive information about the Isle of Portland, including its history, popular walks, and tourist attractions. The website showcases various media such as images, videos, and descriptive content to enhance the understanding and appreciation of Portland.
@@ -120,6 +122,15 @@ The use of high-quality images and a carousel makes the website visually appeali
 ## Target Audience
 The target audience is adults , male or female. Who have hobbies which could include history, dog walking, rambling, hiking and general holiday makers that haven't heard of portland.  It is specifically on Portland as Portland is unique and a bit of a niche.  It has extra detail on the history page to encourage people who enjoy history to come and visit the island.
 
+### **Wireframes:**
+I created wireframes for this project. Below are links to each of these. 
+
+* Desktop wireframes:
+    * [Homepage](docs/wireframes/home_wireframe-1.png)
+    * [History](docs/wireframes/history_wireframe-1.png)
+    * [Touristattractions](docs/wireframes/tourist_attractions_wireframe-1.png)
+    * [Walks](docs/wireframes/walks_wireframe-1.png)
+
 
 ## Image References
 
@@ -191,25 +202,19 @@ Use of accessible fonts and avoidance of text embedded in images.
 Video and audio content include synchronized captions and transcripts.
 Audio descriptions are provided for video content where necessary.
 Controls for multimedia are accessible via keyboard.
-5. Forms
-Labels are clearly associated with their respective input fields.
-Instructions and error messages are clear and concise.
-Form validation messages are accessible to screen readers.
-6. Navigation
+5. Navigation
 Consistent navigation mechanisms are used across the website.
-Skip navigation links are provided to bypass repetitive content.
 Headings and landmarks (header, nav, main, footer) are used to organize content and facilitate navigation.
-7. Responsive Design
+6. Responsive Design
 The website is accessible on various devices and screen sizes.
 Touch targets are large enough to be activated without accidental taps.
-8. Content Structure
+7. Content Structure
 Use of semantic HTML to ensure content is structured logically.
-Headings (h1, h2, h3, etc.) are used in a hierarchical manner to organize content.
-Lists (ul, ol) and tables are used properly to present structured information.
-9. User Preferences
+Headings are used in a hierarchical manner to organize content.
+8. User Preferences
 Users can adjust settings such as font size and contrast.
 Avoidance of content that flashes or flickers to prevent seizures in susceptible individuals.
-10. Testing and Evaluation
-Regular accessibility audits using automated tools and manual testing.
-User feedback is encouraged and used to improve accessibility.
-Continuous updates and improvements based on WCAG guidelines.
+9. Testing and Evaluation
+Please see testing file.
+
+
