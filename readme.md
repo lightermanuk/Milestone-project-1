@@ -240,6 +240,6 @@ Headings are used in a hierarchical manner to organize content.
 Users can adjust settings such as font size and contrast.
 Avoidance of content that flashes or flickers to prevent seizures in susceptible individuals.
 9. Testing and Evaluation
-Please see testing file.
+Please see testing.md file. [testing.md](testing.md)
 
 
