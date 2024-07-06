@@ -3,7 +3,7 @@
 body {
     padding-left: 40px;
     padding-right: 40px;
-    background-image: url('assets/images/fortuneswell.jpg');
+    background-image: url('../images/fortuneswell.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -76,7 +76,7 @@ img.img-fluid {
     font-size: x-large;
     font-family: 'Anton',"Lucida Console";
     font-weight: 400;
-    background-image: url('assets/images/portland_stone_natural.jpg');
+    background-image: url('../images/portland_stone_natural.jpg');
     background-size: cover; /* Ensures the image covers the entire element */
     background-position: center; /* Centers the background image */
     background-repeat: no-repeat; /* Prevents the image from repeating */
