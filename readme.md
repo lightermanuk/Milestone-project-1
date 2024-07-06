@@ -155,8 +155,30 @@ I created wireframes for this project. Below are links to each of these.
     * [History](docs/wireframes/history_wireframe-1.png)
     * [Touristattractions](docs/wireframes/tourist_attractions_wireframe-1.png)
     * [Walks](docs/wireframes/walks_wireframe-1.png)
+ 
+### **Colour Palettes:**
+I took a common-sensical approach to the colour scheme used on the page.  The background image was key to add 'life' to the page from a blank canvas.  Then I wanted the heading 'Portland' to be as bright as possible.  I want it to almost look weird, as there is a saying 'keep portland weird' . https://en.wikipedia.org/wiki/Keep_Portland_Weird
+![colorscheme](assets/images/colors.jpg)
 
+### **Typography**
+* Throughout the pages, there are four fonts used:
+  * 'Anton' for boldness for the titles, subject headings and main content 
+  * "Lucida Console"; - For the footer and as a fall back for Safari.
+  * I didn't edit the default font for the nav bar (bootstrap) and the back of the flip cards as it looked clear, tidy and professional by default.
 
+### **Content:**
+* All content was written by myself.
+* Icons in the navbar header were taken from [Font Awesome](https://fontawesome.com)
+* Main font imported from - [Google Fonts](https://fonts.google.com/)
+
+### **Design /User Experience:**
+*There is adequate sizing of the fonts to be able to read the words clearly against the backgrounds.
+*The font colour is nice a bright and for the information black and clear, easy to read.
+*The arrows are large in their size for ease to turn the carousel.
+*The navbar highlights the menu items as you hover over so the user knows the button is ready for that and will be responsive.
+*I kept the content to a minimum to keep the pages lively and interesting , quality over quantity.  History has the most content but that is still brief.
+*The images funnel into a single column on smaller screens.  Apart from the homepage but that is deliberate to keep the page like a book cover.
+*The nav bar and footer do not stay on the page when you scroll as that would remove some of the page's visual appeal with not much actual benefit.
 ## Image References
 
 - [Isle of Portland](https://images.historicenglandservices.org.uk/p/106/isle-portland-27844-012-11635868.jpg.webp)
@@ -240,6 +262,6 @@ Headings are used in a hierarchical manner to organize content.
 Users can adjust settings such as font size and contrast.
 Avoidance of content that flashes or flickers to prevent seizures in susceptible individuals.
 9. Testing and Evaluation
-Please see testing file.
+Please see testing.md file. [testing.md](testing.md)
 
 
