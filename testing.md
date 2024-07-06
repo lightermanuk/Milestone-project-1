@@ -38,11 +38,11 @@ Below is a list of bugs I found during the development process by testing myself
         * Not showing on History.html
     * ***Solution Used:*** 
         * I decided the weather was not required on the history page as it was not relevent.
-5. **Intended Outcome** - blurb class uniform using custom css file.
+5. **Intended Outcome** - blurb and body class uniform using custom css file.
     * ***Issue Found:*** 
-        * blurb class background not pulling through for blurb.
+        * class backgrounds not pulling through.
     * ***Solution Used:***
-        * put style in html for each page seperately. Class background then worked in full.
+        * change file path to ../ in style.css file it worked.  Deleted Style in all htmls instead of using html style file path.
 6. **Intended Outcome** - fonts all the same on all browsers
     * ***Issue Found:***
         * Opera & Safari using completely different fonts.
